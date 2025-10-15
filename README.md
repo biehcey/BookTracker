@@ -10,12 +10,8 @@ A simple React application to search books via **Google Books API** and manage y
 - Favorites are saved in **localStorage**, so they persist across page refreshes.  
 - **Material UI** components for buttons, inputs, and layout.  
 
-## Technologies
-
-- React (Functional Components, Hooks)
-
-- Material UI (Buttons, Inputs, Layout)
-
-- Google Books API
-
-- LocalStorage for persistent favorites
+## Technologies
+- **React** (Functional Components, Hooks)  
+- **Material UI** (Buttons, Inputs, Layout)  
+- **Google Books API**  
+- **LocalStorage** for persistent favorites
